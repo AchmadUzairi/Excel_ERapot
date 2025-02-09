@@ -10,4 +10,5 @@ The school wants to create a new student report dashboard following the Merdeka 
 - Create an E-report format for student grades which is placed in the school database so that teachers only use the format that is already available
   https://github.com/AchmadUzairi/Excel_ERapot/tree/main/F2/01%20INPUT%20NILAI%20PER%20MAPEL
 - Use the Excel index and match formulas to retrieve material descriptions according to the highest and lowest student scores, so you can get a display like this
-  https://github.com/AchmadUzairi/Excel_ERapot/blob/main/preview.pdf
+  ![preview](https://github.com/user-attachments/assets/67ad1fd8-eef7-43cb-9157-648b63cf61e5)
+
